@@ -1,2 +1,1 @@
-# assignment1A
-Employee management java application using strategy pattern.
+# Employee management java application using strategy pattern.
